@@ -9,7 +9,12 @@ public class Main {
 		
 		int N, X, Y, soma;
 		
+		N = sc.nextInt();
 		
+		for (int i = 0; i < N; i ++) {
+			X = sc.nextInt();
+			Y = sc.nextInt();
+		}
 		
 		
 		sc.close();
